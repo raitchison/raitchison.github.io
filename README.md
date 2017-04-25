@@ -1,3 +1,3 @@
 # Project 2
 
-[Hello World repo](http://pages.uoregon.edu/raitchi3/111/)
+[Hello World Repo](https://github.com/raitchison/hello-world/blob/master/readme.md)
