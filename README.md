@@ -1,3 +1,3 @@
-# Project 2
+# Personal Website
 
-<p>This project was about Git Hub user pages and project pages.</P>
+<p>This is the personal website for Rachel M. Aitchison.</P>
